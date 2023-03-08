@@ -10,7 +10,7 @@
 - Если вы не хотите использовать консоль и хотите натянуть на что то другое то удаляйте код после строки ***# print(words)***, переменная ***words*** это словарь который содержит англ слова и их перевод
 
 Баги:
-- Если правильный ответ ***Boy*** то ответ ***o*** будет правильный так как ***o*** есть в слове ***Boy***, то же самое касается и ***Programmer*** и ответа ***pro**, короче любым образом когда ответ явялется куском от настоящего ответа. В будущем будет исправлено
+- Если правильный ответ ***Boy*** то ответ ***o*** будет правильный так как ***o*** есть в слове ***Boy***, то же самое касается и ***Programmer*** и ответа ***pro***, короче любым образом когда ответ явялется куском от настоящего ответа. В будущем будет исправлено
 
 
 используйте ответ ***1*** что бы узнать текущий правильный ответ, используйте ответ ***2*** что бы узнать предидущий правильный ответ
@@ -30,7 +30,7 @@ This code takes words from an exel file and checks how well you know them
 - If you do not want to use the console and want to pull on something else, then delete the code after the line ***# print(words)***, the variable ***words*** is a dictionary that contains English words and their translation
 
 Bugs:
-- If the correct answer is ***Boy*** then the answer ***o*** will be correct since ***o*** is in the word ***Boy***, the same applies to ***Programmer*** and the answer ***pro**, in short, in any way when the answer is a piece from the real answer. It will be fixed in the future
+- If the correct answer is ***Boy*** then the answer ***o*** will be correct since ***o*** is in the word ***Boy***, the same applies to ***Programmer*** and the answer ***pro***, in short, in any way when the answer is a piece from the real answer. It will be fixed in the future
 
 
 use the answer ***1*** to find out the current correct answer, use the answer ***2*** to find out the future correct answer                                                             

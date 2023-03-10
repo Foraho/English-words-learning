@@ -11,11 +11,9 @@
 
 Баги:
 - Если правильный ответ ***Boy*** то ответ ***o*** будет правильный так как ***o*** есть в слове ***Boy***, то же самое касается и ***Programmer*** и ответа ***pro***, короче любым образом когда ответ явялется куском от настоящего ответа. В будущем будет исправлено
+- и многое многое ещё...
 
-
-используйте ответ ***1*** что бы узнать текущий правильный ответ, используйте ответ ***2*** что бы узнать предидущий правильный ответ
-
-
+!!! Перед началом работы укажите название *вашего файла* !!!
 
                                                              ================== eng ==================
                                                              
@@ -31,6 +29,6 @@ This code takes words from an exel file and checks how well you know them
 
 Bugs:
 - If the correct answer is ***Boy*** then the answer ***o*** will be correct since ***o*** is in the word ***Boy***, the same applies to ***Programmer*** and the answer ***pro***, in short, in any way when the answer is a piece from the real answer. It will be fixed in the future
+- and much much more...
 
-
-use the answer ***1*** to find out the current correct answer, use the answer ***2*** to find out the future correct answer                                                             
+!!! Before starting work, specify the name * of your file* !!!
